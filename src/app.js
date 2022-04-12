@@ -14,3 +14,4 @@ const a = (x, y) => x + y;
 foo();
 
 a();
+a();
