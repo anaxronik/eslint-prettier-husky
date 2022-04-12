@@ -6,10 +6,10 @@ function foo() {
 }
 
 const x = 2000;
+const y = x++;
+const asdas = "asdasds";
 
-const a = () => {
-  console.log(x, name);
-};
+const a = (x, y) => x + y;
 
 foo();
 
